@@ -8,7 +8,7 @@
         <version>3.4.2</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>br.com.arch</groupId>
+    <groupId>com.architecture</groupId>
     <artifactId>generic-architecture</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>generic-architecture</name>
